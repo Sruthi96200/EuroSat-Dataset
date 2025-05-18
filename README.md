@@ -1,4 +1,3 @@
-# EuroSat-Dataset
 Overparameterization in Deep Learning: Satellite Image Classification
 This project investigates the impact of overparameterization on the generalization ability of deep neural networks in the domain of satellite image classification, using the EuroSAT dataset. It explores how model complexity, optimizer choice, and pruning affect convergence, test accuracy, and model robustness.
 
@@ -57,19 +56,3 @@ Models: SmallNet, MediumNet, LargeNet
 
 Tools: EuroSAT dataset, Google Colab/Jupyter
 
-📁 Repository Structure
-.
-├── models/
-│   ├── smallnet.py
-│   ├── mediumnet.py
-│   └── largenet.py
-├── training/
-│   ├── train_loop.py
-│   ├── evaluate.py
-│   └── prune.py
-├── plots/
-│   └── accuracy_loss_curves.png
-├── report/
-│   └── EEE560_Group12_Project.pdf
-├── README.md
-└── requirements.txt
