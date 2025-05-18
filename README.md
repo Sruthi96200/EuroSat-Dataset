@@ -53,27 +53,6 @@ EuroSAT – 27,000 labeled RGB satellite images (10 classes), each of size 64×6
 - **Models:** SmallNet, MediumNet, LargeNet  
 - **Tools:** EuroSAT dataset, Google Colab/Jupyter  
 
----
-
-### **Repository Structure**  
-```  
-.  
-├── models/  
-│   ├── smallnet.py  
-│   ├── mediumnet.py  
-│   └── largenet.py  
-├── training/  
-│   ├── train_loop.py  
-│   ├── evaluate.py  
-│   └── prune.py  
-├── plots/  
-│   └── accuracy_loss_curves.png  
-├── report/  
-│   └── EEE560_Group12_Project.pdf  
-├── README.md  
-└── requirements.txt  
-```  
-
 ---  
 
 This project provides empirical insights into the interplay between model size, optimization strategies, and generalization in satellite image classification, contributing to the broader understanding of overparameterization in deep learning.
