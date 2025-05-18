@@ -1,4 +1,4 @@
-**Overparameterization in Deep Learning: Satellite Image Classification**  
+**OVERPARAMETIZATION IN DEEP LEARNING: SATELLITE IMAGE CLASSIFICATION**  
 
 This project investigates the impact of overparameterization on the generalization ability of deep neural networks in the domain of satellite image classification, using the EuroSAT dataset. It explores how model complexity, optimizer choice, and pruning affect convergence, test accuracy, and model robustness.  
 
