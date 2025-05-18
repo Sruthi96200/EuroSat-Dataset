@@ -58,4 +58,4 @@ EuroSAT – 27,000 labeled RGB satellite images (10 classes), each of size 64×6
 ---  
 
 This project provides empirical insights into the interplay between model size, optimization strategies, and generalization in satellite image classification, contributing to the broader understanding of overparameterization in deep learning.
->>>>>>> 179d4586c10339d9cb01892970d386e2c9b8d1bb
+
